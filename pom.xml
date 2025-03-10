@@ -39,7 +39,7 @@
                     <artifactId>maven-compiler-plugin</artifactId>
                     <version>3.13.0</version>
                 </plugin>
-                <!-- end::maven-compiler-plugin[] -->
+                <!-- end::maven-compiler-plugin[]-->
             </plugins>
         </pluginManagement>
         <plugins>

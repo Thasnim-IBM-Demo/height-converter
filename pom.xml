@@ -11,7 +11,7 @@
     <groupId>io.openliberty.guides</groupId>
     <!-- end::groupId[] -->
     <artifactId>guide-maven-multimodules</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <!-- tag::packagingType[] -->
     <packaging>pom</packaging>
     <!-- end::packagingType[] -->

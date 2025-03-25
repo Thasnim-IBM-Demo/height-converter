@@ -13,7 +13,7 @@
     <!-- tag::packaging[] -->
     <groupId>io.openliberty.guides</groupId>
     <artifactId>guide-maven-multimodules-ear</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <!-- tag::packagingType[] -->
     <packaging>ear</packaging>
     <!-- end::packagingType[] -->
@@ -36,7 +36,7 @@
         <dependency>
             <groupId>io.openliberty.guides</groupId>
             <artifactId>guide-maven-multimodules-jar</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
             <type>jar</type>
         </dependency>
         <!-- end::dependency-jar[] -->
@@ -44,7 +44,7 @@
         <dependency>
             <groupId>io.openliberty.guides</groupId>
             <artifactId>guide-maven-multimodules-war</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0</version>
             <!-- tag::warType[] -->
             <type>war</type>
             <!-- end::warType[] -->
@@ -75,7 +75,7 @@
                         <jarModule>
                             <groupId>io.openliberty.guides</groupId>
                             <artifactId>guide-maven-multimodules-jar</artifactId>
-                            <uri>/guide-maven-multimodules-jar-1.0-SNAPSHOT.jar</uri>
+                            <uri>/guide-maven-multimodules-jar-1.0.jar</uri>
                         </jarModule>
                         <!-- end::jarModule[] -->
                         <!-- tag::webModule[] -->
